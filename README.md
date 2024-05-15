@@ -32,7 +32,7 @@ Monster Scare Run is an exciting endless runner game where players control a mon
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/MS3.png" alt="Game Screenshot 3" style="width: 47%;">
+  <img src="Game%20Screenshot/MS7.png" alt="Game Screenshot 7" style="width: 47%;">
   <img src="Game%20Screenshot/MS5.png" alt="Game Screenshot 5" style="width: 47%;">
 </div>
 
@@ -106,7 +106,7 @@ Players control a monster running endlessly through different environments. The 
 - **Feedback:** Real-time feedback to help players improve.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/MS7.png" alt="Game Screenshot 7" style="width: 32%;">
+  <img src="Game%20Screenshot/MS3.png" alt="Game Screenshot 3" style="width: 32%;">
   <img src="Game%20Screenshot/MS8.png" alt="Game Screenshot 8" style="width: 32%;">
   <img src="Game%20Screenshot/MS6.png" alt="Game Screenshot 6" style="width: 32%;">
 </div>
