@@ -1,6 +1,7 @@
 # Monster Scare Run
 
-Monster Scare Run is a thrilling endless runner game designed for Android devices. Developed using the Unity engine, this repository includes all the necessary files and resources to build, run, and modify the game. Players control a monster, navigating through various environments while avoiding obstacles and collecting power-ups to achieve high scores.
+Monster Scare Run is a thrilling endless runner game, inspired from 'Jetpack Joyride' and designed for Android devices. Developed using the Unity engine, this repository includes all the necessary files and resources to build, run, and modify the game. Players control a monster, navigating through various environments while avoiding obstacles and collecting power-ups to achieve high scores. It also features and in-game shop for upgrades with in-game currency system.
+It has various levels which are unlocked as you progress and complete previous level objectives.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -28,6 +29,11 @@ Monster Scare Run is an exciting endless runner game where players control a mon
   <img src="Game%20Screenshot/MS4.png" alt="Game Screenshot 4" style="width: 32%;">
   <img src="Game%20Screenshot/MS1.png" alt="Game Screenshot 1" style="width: 32%;">
   <img src="Game%20Screenshot/MS2.png" alt="Game Screenshot 2" style="width: 32%;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="Game%20Screenshot/MS3.png" alt="Game Screenshot 3" style="width: 47%;">
+  <img src="Game%20Screenshot/MS5.png" alt="Game Screenshot 5" style="width: 47%;">
 </div>
 
 ## Features
@@ -103,11 +109,6 @@ Players control a monster running endlessly through different environments. The 
   <img src="Game%20Screenshot/MS7.png" alt="Game Screenshot 7" style="width: 32%;">
   <img src="Game%20Screenshot/MS8.png" alt="Game Screenshot 8" style="width: 32%;">
   <img src="Game%20Screenshot/MS6.png" alt="Game Screenshot 6" style="width: 32%;">
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/MS3.png" alt="Game Screenshot 3" style="width: 47%;">
-  <img src="Game%20Screenshot/MS5.png" alt="Game Screenshot 5" style="width: 47%;">
 </div>
 
 ## Controls
